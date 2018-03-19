@@ -5,7 +5,7 @@ This project implements a particle filter as part of the localization module in 
 
 Below is a screenshot of the final fun
 
-![result of UKF on simulator](./Result.png)
+![result of UKF on simulator](./final_run.png)
 
 
 
